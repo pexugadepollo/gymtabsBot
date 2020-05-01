@@ -1,0 +1,27 @@
+{
+  "name": "gymtabsbot",
+  "version": "1.0.0",
+  "description": "This is a bot for telegram that sends you the exercise routines asociated with your gymtabs user, using telegrafjs a Telegram bot framework for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pexugadepollo/gymtabsBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "gymtabs"
+  ],
+  "author": "pexugadepollo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pexugadepollo/gymtabsBot/issues"
+  },
+  "homepage": "https://github.com/pexugadepollo/gymtabsBot#readme",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
